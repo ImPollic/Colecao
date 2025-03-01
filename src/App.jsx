@@ -22,12 +22,12 @@ function App () {
         <p>Durante esse anos, desenvolvi alguns jogos quando tive tempo livre. Assim, venho desta forma apresentar uma parte desses projetos. Links serão disponibilizados posteriormente para que você possa acessá-los.</p>
       </div>
       <div className='area-textos'>
-        <Jogo imagemurl="./public/imagens/Quimica.png" descricao={"Revolta Quimica"} url={['https://impollic.github.io/Revolta-Quimica']}/>
-        <Jogo imagemurl="./public/imagens/causa.png" descricao={"Projeto Fortunato"} url={['https://drive.google.com/drive/folders/1FyR0kRRQm8t_wp8IhIYiWaLKETu3NBxu?usp=sharing']}/>
-        <Jogo imagemurl="./public/imagens/Touhou.png" descricao={"Embodiment of the Scarlet Devil"} url={['https://impollic.github.io/Touhou6v1']}/>
-        <Jogo imagemurl="./public/imagens/Nivellya.png" descricao={"Projeto Nivellya (Web & Java)"} url={['https://replit.com/@Pollic/Nivellya-Beta-251-BugFix-Version', 'https://impollic.github.io/NivellyaWebsite']}/>  
-        <Jogo imagemurl="./public/imagens/Pokemon.png" descricao={"Batalha Pokémon"} url={[]}/>  
-        <Jogo imagemurl="./public/imagens/kaythe.png" descricao={"Pollic & Kaythe Adventure"} url={['https://replit.com/@Pollic/Pollic-Adventure-Revamp?v=1']}/>  
+        <Jogo imagemurl="./imagens/Quimica.png" descricao={"Revolta Quimica"} url={['https://impollic.github.io/Revolta-Quimica']}/>
+        <Jogo imagemurl="./imagens/causa.png" descricao={"Projeto Fortunato"} url={['https://drive.google.com/drive/folders/1FyR0kRRQm8t_wp8IhIYiWaLKETu3NBxu?usp=sharing']}/>
+        <Jogo imagemurl="./imagens/Touhou.png" descricao={"Embodiment of the Scarlet Devil"} url={['https://impollic.github.io/Touhou6v1']}/>
+        <Jogo imagemurl="./imagens/Nivellya.png" descricao={"Projeto Nivellya (Web & Java)"} url={['https://replit.com/@Pollic/Nivellya-Beta-251-BugFix-Version', 'https://impollic.github.io/NivellyaWebsite']}/>  
+        <Jogo imagemurl="./imagens/Pokemon.png" descricao={"Batalha Pokémon"} url={[]}/>  
+        <Jogo imagemurl="./imagens/kaythe.png" descricao={"Pollic & Kaythe Adventure"} url={['https://replit.com/@Pollic/Pollic-Adventure-Revamp?v=1']}/>  
       </div>
     </main>
     <footer>Feito por impollic_ utilizando <a href='https://react.dev/' target='_blank'>React</a> em 01/03/2025</footer>
